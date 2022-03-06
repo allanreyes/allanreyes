@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on helping my customers with Azure and their cloud journey
+- 🌱 I’m currently learning power platform, azure PaaS services, performance becnhmarks
+- 💬 Ask me about Azure and .Net
+- 📫 How to reach me: me@allanreyes.com
+
 <!--
 **allanreyes/allanreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
