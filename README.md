@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on helping my customers with Azure and their cloud journey
-- 🌱 I’m currently learning power platform, azure PaaS services, performance becnhmarks
+🔭 I help my customers with Azure and their cloud journey
+- 🌱 I teach people app development, power platform, and Azure
 - 💬 Ask me about Azure and .Net
 - 📫 How to reach me: me@allanreyes.com
 
